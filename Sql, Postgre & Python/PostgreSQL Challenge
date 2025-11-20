@@ -1,4 +1,4 @@
--- BUSINESS INTELLIGENCE CHALLENGE
+-- Postgre Tasks
 
 -- TASK 1 - EXPLORATION
 -- QUESTION 1 - How many projects are in the dataset?
@@ -265,7 +265,7 @@ order by
 
 	
 -- QUESTION 5 - The product team would like to know whether the conversion rate of bid requests, from the initial
--- status to status ìbidSubmittedî is better or worse depending on the type of subcontractor that is being
+-- status to status ‚ÄúbidSubmitted‚Äù is better or worse depending on the type of subcontractor that is being
 -- invited.
 
 -- CONVERSION RATE OF NETWORK SUBCONTRACTORS
@@ -336,4 +336,5 @@ order by
 	Number_of_Subcontractors desc;
 --------------------------------------------------------------------------------------------------------------------------
 	
+
 	
